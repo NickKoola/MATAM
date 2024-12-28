@@ -1,0 +1,3 @@
+/Users/barkalandarov/Desktop/MATAM/HW/ex4/ex4-clone/cmake-build-debug/CMakeFiles/ex4_main.dir
+/Users/barkalandarov/Desktop/MATAM/HW/ex4/ex4-clone/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/barkalandarov/Desktop/MATAM/HW/ex4/ex4-clone/cmake-build-debug/CMakeFiles/rebuild_cache.dir
